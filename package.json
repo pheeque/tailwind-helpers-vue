@@ -21,6 +21,9 @@
     "url": "https://github.com/pheeque/tailwind-helpers-vue/issues"
   },
   "homepage": "https://github.com/pheeque/tailwind-helpers-vue#readme",
+  "dependencies": {
+    "vue": "^3.2.47"
+  },
   "devDependencies": {
     "eslint": "^8.38.0",
     "eslint-config-airbnb": "^19.0.4",
