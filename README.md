@@ -21,10 +21,9 @@ const isDesktop = useBreakpoint('sm'); // md, lg, xl, 2xl
 
 watch(
   isDesktop,
-  () => {
-    menuIsOpen.value = isDesktop.value;
+  (newVal) => {
+    menuIsOpen.value = newVal;
   },
   { immediate: true }
 );
-
 ```

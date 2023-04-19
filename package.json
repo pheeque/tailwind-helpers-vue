@@ -1,6 +1,6 @@
 {
   "name": "tailwind-helpers-vue",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Helper Vue functions for TailwindCSS",
   "main": "index.js",
   "scripts": {
